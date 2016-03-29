@@ -16,6 +16,13 @@ en:
       supporters:
         title: "Supporters"
         url:   "/en/supporters"
+      boo:
+        title: "boo"
+        submenu: true
+        tree:
+          about:
+            title: "test"
+            url:   "/test/"
   blog:
     title: "blog"
     url:   "/en/blog/"
